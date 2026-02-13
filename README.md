@@ -1,6 +1,6 @@
 # CodePulse
 
-## [CodePulse.API](https://github.com/sofwanrikhaldi/CodePulse.API)
+## [CodePulse API](https://github.com/sofwanrikhaldi/CodePulse.API)
 
 ## Technologies
 
